@@ -14,7 +14,9 @@ Contents of Repository:
   Resource Files - provided
 
   1 x .css file (style.css) >> Minor edit to .css code
+  
   1 x .html file (index.html)
+  
   1 x README file
 
 
